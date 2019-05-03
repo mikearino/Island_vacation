@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  font: sans-serif;
+  text-align: center;
+  color: white;
+  font-size: 200px;
+}
+
+h2 {
+  font-family: monospace;
+  text-align: center;
+  color: white;
+}
+
+p {
+  color: white;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img.bubs {
+  ;
+}
+
+img.reception {
+  width: 800px;
+  height: 600px;
+}
