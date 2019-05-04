@@ -2,7 +2,7 @@
 
 #### _A website for vacationing in the Maldives, 5/3/2019_
 
-#### By _**{Mike Lofgren}**_
+#### By _**Mike Lofgren**_
 
 ## Description
 
