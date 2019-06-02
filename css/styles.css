@@ -43,3 +43,33 @@ img.act {
   width: 800px;
   height: 600px;
 }
+
+@media screen and (max-width: 790px) {
+  body {
+    background-color: blue;
+  }
+  h1 {
+    color: red;
+  }
+  p {
+    font-size: 50px;
+  }
+  img {
+  max-width: 100%;
+  height: auto;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  body {
+    background-color: yellow;
+    }
+  }
+  p {
+    font-size: 50px;
+  }
+  img {
+  max-width: 100%;
+  height: auto;
+  }
+}
